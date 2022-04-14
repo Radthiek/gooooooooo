@@ -7,7 +7,7 @@
     "node": "5.9.0"
   },
   "dependencies": {
-    "async": "1.5.2",
+    "async": "3.2.2",
     "collections": "3.0.0",
     "glob": "7.0.3",
     "md5-file": "2.0.4",
